@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-- [Chapter 1 - Clean Code](#chapter1)
+- [Chapter 1 - Clean Code](#chapter10)
 - [Chapter 2 - Meaningful Names](#chapter2)
 - [Chapter 3 - Functions](#chapter3)
 - [Chapter 4 - Comments](#chapter4)
